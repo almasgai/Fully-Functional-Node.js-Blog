@@ -32,7 +32,7 @@ router.post("/", middleware.isLoggedIn, function(req, res){
   // lookup campground using ID
   Campground.findById(req.params.id, function(err, campground){
     if (err) {
-      req.flash("Campground not found")
+      req.flash("Post not found")
       res.redirect("/campgrounds")
     } else {
       // create new comment
