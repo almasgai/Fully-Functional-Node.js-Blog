@@ -1,0 +1,26 @@
+{
+  "name": "v2",
+  "version": "1.0.0",
+  "description": "Adding DB functionality to the web site using MongoDB and Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Second",
+    "Iteration"
+  ],
+  "author": "Al",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "method-override": "^2.3.9",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.12"
+  },
+  "devDependencies": {}
+}
