@@ -7,6 +7,8 @@ Includes:
 - posting articles, images, comments, etc.
 - backend security using npm module passport
 
+================================================================================
+
 Screenshots:
 ![Image One](./one.png)
 ![Image Two](./two.png)
