@@ -13,14 +13,15 @@
   "author": "Al",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.18.2",
     "connect-flash": "^0.1.1",
     "ejs": "^2.5.7",
-    "express": "^4.15.4",
-    "method-override": "^2.3.9",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
     "mongo": "^0.1.0",
-    "mongodb": "^2.2.31",
-    "mongoose": "^4.11.12"
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.8",
+    "passport": "^0.4.0"
   },
   "devDependencies": {}
 }
